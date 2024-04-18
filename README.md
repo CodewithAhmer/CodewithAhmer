@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @CodewithAhmer
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning typescript , html , css , javascript
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me codewithahmer855@gmail.com
+- 😄 Pronouns: Ahmer
+- ⚡ Fun fact: follow me for more cool codes!
